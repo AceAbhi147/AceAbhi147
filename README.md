@@ -1,15 +1,17 @@
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">Software Developer |</h3>
+<h3 align="center">Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aceabhi147&label=Profile%20views&color=0e75b6&style=flat" alt="aceabhi147" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceabhi147" alt="aceabhi147" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceabhi147&theme=onedark" alt="aceabhi147" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AceAbhi147](https://github.com/AceAbhi147)
 
-- 📫 How to reach me **abhishek.kr.singh147@gmail.com**
+- 📫 How to reach me [**abhishek.kr.singh147@gmail.com**](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z7RW5V1xap-imwKDxqvOjHUHTm7JO-Qt/view?usp=sharing](https://drive.google.com/file/d/1Z7RW5V1xap-imwKDxqvOjHUHTm7JO-Qt/view?usp=sharing)
 
