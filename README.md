@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceabhi147&theme=onedark" alt="aceabhi147" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AceAbhi147](https://github.com/AceAbhi147)
 
 - 📫 How to reach me [**abhishek.kr.singh147@gmail.com**](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail)
